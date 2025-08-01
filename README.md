@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./banner.png" alt="CRUD de Usuários Banner" width="800"/>
-</p>
-
 <h1 align="center">👤 CRUD de Usuários</h1>
 
 <p align="center">
   Projeto em <strong>Node.js + Express + MongoDB</strong> que implementa um CRUD (Create, Read, Update, Delete) de usuários.  
-  Conectado ao <strong>MongoDB Atlas</strong> e testado com <strong>Thunder Client</strong>.
+  Conectado ao <strong>MongoDB Atlas</strong>, deploy no <strong>Render</strong> e testado com <strong>Thunder Client</strong>.
 </p>
 
 ---
@@ -20,7 +16,13 @@
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [CORS](https://www.npmjs.com/package/cors)
 - [Nodemon](https://www.npmjs.com/package/nodemon) (desenvolvimento)
-- [Thunder Client](https://www.thunderclient.com/) ou Postman (testes de API)
+- [Thunder Client](https://www.thunderclient.com/) ou [Postman](https://www.postman.com/) (testes de API)
+
+---
+
+## 🌐 Aplicação em Produção
+
+🔗 **Acesse aqui:** [CRUD Usuários - Render](https://crud-usuarios-p1cy.onrender.com/usuarios)
 
 ---
 
